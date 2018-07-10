@@ -11,29 +11,29 @@ div {
 }
 
 #violet {
-  border-color: purple;
+  border-top-color: purple;
 }
 
 #indigo {
-  border-color: #8a2be2;
+  border-top-color: #8a2be2;
 }
 
 #red {
-  border-color: red;
+  border-top-color: red;
 }
 
 #orange {
-  border-color: orange;
+  border-top-color: orange;
 }
 
 #yellow {
-  border-color: yellow;
+  border-top-color: yellow;
 }
 
 #green {
-  border-color: green;
+  border-top-color: green;
 }
 
 #blue {
-  border-color: blue;
+  border-top-color: blue;
 }
